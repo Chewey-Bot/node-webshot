@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "cross-spawn": "^0.2.3",
-    "tmp": "~0.0.25"
+    "tmp": "~0.2.7"
   },
   "devDependencies": {
     "imagemagick": "git://github.com/rsms/node-imagemagick.git",
